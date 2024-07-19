@@ -1,4 +1,4 @@
-EasyKanban Task Management System
+# EasyKanban Task Management System
 Overview
 EasyKanban is a Java-based task management system with user authentication and task tracking features.
 Key Features
